@@ -1,1 +1,1 @@
-Introdução ao HTML5, adicionando imagens e hiperlink.
+Introdução ao HTML5, adicionando imagens e hiperlink
